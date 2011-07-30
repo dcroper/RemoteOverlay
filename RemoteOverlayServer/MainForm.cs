@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**
+ * RemoteOverlayServer
+ * Copyright (C) 2011 David Roper
+ * 
+ * MainForm.cs
+ */
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;

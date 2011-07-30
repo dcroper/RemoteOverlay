@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**
+ * RemoteOverlayInterfaceLib
+ * Copyright (C) 2011 David Roper
+ * 
+ * IOverlayService.cs
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

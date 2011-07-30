@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**
+ * RemoteOverlayServer
+ * Copyright (C) 2011 David Roper
+ * 
+ * OverlayServer.cs
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ServiceModel;
 using RemoteOverlayInterfaceLib;
