@@ -1,0 +1,27 @@
+RemoteOverlay (aka. Baby Monitor) 
+Copyright (C) 2011 David Roper
+-------------------------------------
+
+RemoteOverly is a client/server application that allows the client to
+remotely signal the server to display a message on-top of whatever is
+currently being displayed.
+
+This project was born out of a need by my local church.  They needed a
+way to allow nursary workers to easily call parents in the congregation
+in the event that their child need them.  (This is why the appliction
+has been configured to create an installer called BabyMonitor and has a
+"baby" icon.) Previously, this was done using spcial hardware that
+allowed the nursary works to remotely display a 3 digit number on a LED
+lit 7-segment display.  This proved to be problematic as it was
+difficult to find a place to mount the display such that everyone could
+easily see it.  When this specialalized hardware broke it was agreeed
+that a better solution would be to display the 3 digit number on big
+projection screen that we were already using to display song lyrics,
+videos and other multi-media content.  To achieve this goal this
+software was written allowing the nursary workers, running the client
+software on a laptop, to remotely cause the 3 digit number to be
+displayed on multi-media computer, running the server software.
+
+This program was written in C# using Visual Studio 2010 as we use all
+Windows based computers at my church and I had not done much .NET
+programing in the past and wanted to use this as a learning exercise.
